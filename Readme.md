@@ -7,13 +7,13 @@ Built with **HTML**, **CSS**, and **JavaScript**, the app renders interactive an
 
 ## 🚀 **Live Demo**
 
-🔗 **Live Website:** []()
+🔗 **Live Website:** [https://dileep-kumawat.github.io/card-generator-using-html-css-and-js/](https://dileep-kumawat.github.io/card-generator-using-html-css-and-js/)
 
 ---
 
 ## 🎥 **Demo Video**
 
-📹 [click to watch]()
+📹 [click to watch](https://youtu.be/TMOzYCdKziE)
 
 ---
 
